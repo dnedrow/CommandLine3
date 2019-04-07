@@ -7,6 +7,7 @@ A pure Swift library for creating command-line interfaces.
 ## License
 
 Copyright 2019, David E Nedrow and the CommandLine3 contributors.
+
 Copyright 2014 - 2018, Ben Gollmer and the CommandLine contributors.
 
 
